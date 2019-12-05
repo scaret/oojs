@@ -3,7 +3,7 @@
 | 页码  | 行数  | 勘误/说明 |
 |:------------- |:---------------:| -------------:|
 |1|1  |前一版由Stoyan Stefanov著（ ~~Packet~~ **Packt** 出版社发行）|
-|3|4  |~~copyright@packetpub.com~~ **copyright@packtpub.com**|
+|5|4  |~~copyright@packetpub.com~~ **copyright@packtpub.com**|
 
 #第一章
 
